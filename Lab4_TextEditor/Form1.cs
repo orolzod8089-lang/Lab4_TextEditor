@@ -258,7 +258,7 @@ namespace Lab4_TextEditor
         {
 
         }
-
+        //
         private void seperatorToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
